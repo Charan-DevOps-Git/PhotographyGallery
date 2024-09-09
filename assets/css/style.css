@@ -29,11 +29,15 @@ body {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio.section-bg{
+   margin: 30px;
+}
+
 .portfolio .portfolio-item {
     margin-bottom: 30px;
   }
   
-  .portfolio #portfolio-flters {
+  .portfolio #portfolio-flters {  
     padding: 0;
     margin: 0 auto 25px auto;
     list-style: none;
